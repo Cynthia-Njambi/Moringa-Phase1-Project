@@ -6,6 +6,6 @@
 2. Business Understanding
 - In this section will be talking about the stakeholder in this project whom I would say is the head of Microsoft because he has an interest in having actionable insights for the company.
 - While trying to understand how to generate the actionable insights, I set three key business questions which include: 
- - What are the top 5 genres that consumers love?
- - What are the genres that generate the highest gross?
- - What is the recommended average movie runtimes?
+    - What are the top 5 genres that consumers love?
+    - What are the genres that generate the highest gross?
+    - What is the recommended average movie runtimes?
