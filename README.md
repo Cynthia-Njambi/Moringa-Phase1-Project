@@ -25,6 +25,5 @@ In this project I have worked on two sources of data: the im.db database and the
 - I focused on the movie_basics and movie_ratings tables and stored them in a imdb_df. This data provided me insights on the average ratings, list of genres as well as the runtime_minutes data.
 - The bom.movie_gross.csv file gave me insights on domestic and foreign gross.
 - Below contains three visualizations of the insights gathered.
-![Top 5 genres based on total number of votes](Top_5_Genres_Total_No_Votes.png)
-
+![Viusualization of the top 5 genres based on Total No of votes](Top5_genres.png)
 
