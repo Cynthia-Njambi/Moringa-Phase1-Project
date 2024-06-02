@@ -26,6 +26,18 @@ In this project I have worked on two sources of data: the im.db database and the
 - I focused on the movie_basics and movie_ratings tables and stored them in a imdb_df. This data provided me insights on the average ratings, list of genres as well as the runtime_minutes data.
 - The bom.movie_gross.csv file gave me insights on domestic and foreign gross.
 - Below contains three visualizations of the insights gathered.
+
+This visualizes the Top 5 genres based on the Total No of votes
 ![Viusualization of the top 5 genres based on Total No of votes](Top5_genres.png)
+
+This visualizes the Total gross per every genre
 ![Visualization of the total gross by genre](TotalGross.png)
+
+This visualizes the average and recommended movie runtime minutes
 ![Visualization of the recommended movie runtime](Recommended_runtime.png)
+
+**4. Conclusion**
+
+I would like to recommend the head of Microsoft the following based on my insights:
+- The genres that I would recommend Microsoft to launch in the movie studio are Adventure, Drama, Comedy and Action. This is because these genres not only generate the highest domestic and foreign gross but also they are also seen to be consumer favourites.
+- I would also recommend that most films should range between 105.5 mins to 135.5 mins based on the range of the movie runtimes produced before. This so that the users will be able to effectively engage with the movie without loosing interest.
