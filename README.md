@@ -20,6 +20,7 @@ I set the above questions because:
 - It was also necessary to understand on average how long films should be.
 
 **3. Data Understanding and Analysis**
+
 In this project I have worked on two sources of data: the im.db database and the bom.movie_gross.csv file.
 - I turned the two sources of data and turned them into DataFrames using pandas and sqlite modules. 
 - I focused on the movie_basics and movie_ratings tables and stored them in a imdb_df. This data provided me insights on the average ratings, list of genres as well as the runtime_minutes data.
