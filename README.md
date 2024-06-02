@@ -27,4 +27,5 @@ In this project I have worked on two sources of data: the im.db database and the
 - The bom.movie_gross.csv file gave me insights on domestic and foreign gross.
 - Below contains three visualizations of the insights gathered.
 ![Viusualization of the top 5 genres based on Total No of votes](Top5_genres.png)
-
+![Visualization of the total gross by genre](TotalGross.png)
+![Visualization of the recommended movie runtime](Recommended_runtime.png)
